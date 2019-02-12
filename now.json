@@ -1,6 +1,7 @@
 {
   "version": 2,
   "name": "amenship",
+  "alias": "amenship",
   "builds": [
     {
       "src": "package.json",

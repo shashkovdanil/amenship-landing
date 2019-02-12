@@ -20,10 +20,12 @@ export default () => {
             min-height: 100%;
             font-family: Helvetica, Arial, sans-serif;
             font-size: 24px;
+            overflow: hidden;
           }
         `}
       />
       <Head>
+        <link rel="shortcut icon" href="/static/favicon.ico" />
         <title>Amenship</title>
       </Head>
       <div>
